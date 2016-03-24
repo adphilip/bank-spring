@@ -1,0 +1,5 @@
+/data/java/workspace/bank/src/test/java/com/oneandone/bank/account/AccountServiceTest.java
+/data/java/workspace/bank/src/test/java/com/oneandone/bank/account/AccountRepositoryTest.java
+/data/java/workspace/bank/src/test/java/com/oneandone/bank/BankApplicationTests.java
+/data/java/workspace/bank/src/test/java/com/oneandone/bank/user/UserRepositoryTest.java
+/data/java/workspace/bank/src/test/java/com/oneandone/bank/user/UserServiceTest.java

@@ -1,0 +1,5 @@
+com/oneandone/bank/user/UserServiceTest.class
+com/oneandone/bank/account/AccountServiceTest.class
+com/oneandone/bank/BankApplicationTests.class
+com/oneandone/bank/account/AccountRepositoryTest.class
+com/oneandone/bank/user/UserRepositoryTest.class
