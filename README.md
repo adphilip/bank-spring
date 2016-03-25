@@ -37,7 +37,7 @@ Users:
   }
 ]
 
-Testing:
+Testing - from RestClient:
  - http://localhost:8080/accounts - GET
  - http://localhost:8080/accounts/1 - GET
  - http://localhost:8080/users - GET
@@ -47,9 +47,8 @@ Testing:
          "id": 5,
          "funds": 5550
      }
- - http://localhost:8080/accounts/1 - PUT (I don't know the json)
-  { - not good
-
-    "Operation": "deposit",
-    "funds": 1080.0,
-  }
+ - http://localhost:8080/accounts/1 - PUT
+{
+  "operation": "DEPOSIT",
+  "amount": 1080
+}
