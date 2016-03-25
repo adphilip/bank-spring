@@ -52,3 +52,11 @@ Testing - from RestClient:
   "operation": "DEPOSIT",
   "amount": 1080
 }
+
+- http://localhost:8080/accounts/ - PUT
+
+ {
+    "source": 1,
+    "destination": 4,
+    "amount": 1034
+  }
